@@ -68,15 +68,3 @@ What are the most common products sold together?
 
 
 
-
-
-
-
-
-
-
-
-
-What was the most popular product?
-![Qunatity Vs Product Name](https://user-images.githubusercontent.com/87081613/156743292-21faa974-9580-4820-95b1-73a0eecb0700.png)
-
