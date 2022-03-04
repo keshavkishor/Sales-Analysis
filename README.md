@@ -31,7 +31,9 @@ To answer these problems, we'll go over a variety of pandas and matplotlib metho
 RESULTS
 
  What month did you have the most sales?
-![Sales Vs Months](https://user-images.githubusercontent.com/87081613/156742774-aef57d01-acff-40ee-8c20-352e46f5fd38.png)
+ 
+<img width="377" alt="Screenshot 2022-03-04 at 3 39 50 PM" src="https://user-images.githubusercontent.com/87081613/156744107-f65788fd-7b36-450e-b536-1651345d7d30.png">
+
 
 
 
@@ -40,38 +42,28 @@ RESULTS
 
 
 Which city has the most product sales?
-![Sales Vs Cities](https://user-images.githubusercontent.com/87081613/156742895-7a7e503d-0e9b-46f4-b96e-df24faa0abd8.png)
 
-
-
-
-
-
-
-
+<img width="376" alt="Screenshot 2022-03-04 at 3 40 36 PM" src="https://user-images.githubusercontent.com/87081613/156744160-3b620f5e-5933-4bd7-a0fd-83a09b7b534e.png">
 
 
 
 
 When should we show advertisements to increase the chances of customers purchasing the product?
-![Order Vs Hour](https://user-images.githubusercontent.com/87081613/156742992-c28a30e4-59c2-4946-8baf-d833686eead0.png)
 
-
-
-
-
-
-
-
-
+<img width="398" alt="Screenshot 2022-03-04 at 3 41 04 PM" src="https://user-images.githubusercontent.com/87081613/156744251-8da4bde1-2641-4bf6-8e82-7690ffc9e1fa.png">
 
 
 
 
 What are the most common products sold together?
+
 <img width="1440" alt="Screenshot 2022-03-04 at 3 36 10 PM" src="https://user-images.githubusercontent.com/87081613/156743207-c54477e4-c4ea-4320-9322-be27cac640d4.png">
 
 
+ What was the most popular product? Why do you believe it was the most popular?
+ <img width="446" alt="Screenshot 2022-03-04 at 3 41 31 PM" src="https://user-images.githubusercontent.com/87081613/156744349-b4209bfd-b705-4377-9646-5266bc7df9ba.png">
+
+ 
 
 
 
