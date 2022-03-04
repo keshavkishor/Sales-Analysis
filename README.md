@@ -26,3 +26,22 @@ To answer these problems, we'll go over a variety of pandas and matplotlib metho
 5. Performing aggregate analysis using groupby
 6. To display our findings, we created bar charts and line graphs.
 7. Adding labels to our graphs
+
+
+RESULTS
+
+ What month did you have the most sales?
+![Sales Vs Months](https://user-images.githubusercontent.com/87081613/156742774-aef57d01-acff-40ee-8c20-352e46f5fd38.png)
+
+Which city has the most product sales?
+![Sales Vs Cities](https://user-images.githubusercontent.com/87081613/156742895-7a7e503d-0e9b-46f4-b96e-df24faa0abd8.png)
+
+When should we show advertisements to increase the chances of customers purchasing the product?
+![Order Vs Hour](https://user-images.githubusercontent.com/87081613/156742992-c28a30e4-59c2-4946-8baf-d833686eead0.png)
+
+What are the most common products sold together?
+<img width="1440" alt="Screenshot 2022-03-04 at 3 36 10 PM" src="https://user-images.githubusercontent.com/87081613/156743207-c54477e4-c4ea-4320-9322-be27cac640d4.png">
+
+What was the most popular product?
+![Qunatity Vs Product Name](https://user-images.githubusercontent.com/87081613/156743292-21faa974-9580-4820-95b1-73a0eecb0700.png)
+
