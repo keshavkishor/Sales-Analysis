@@ -61,6 +61,7 @@ What are the most common products sold together?
 
 
  What was the most popular product? Why do you believe it was the most popular?
+ 
  <img width="446" alt="Screenshot 2022-03-04 at 3 41 31 PM" src="https://user-images.githubusercontent.com/87081613/156744349-b4209bfd-b705-4377-9646-5266bc7df9ba.png">
 
  
