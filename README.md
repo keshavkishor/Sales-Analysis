@@ -3,7 +3,7 @@ Sales Analysis of a store using Python Libraries and Google Colab
 
 We use Python Pandas and Python Matplotlib to analyse and answer business questions regarding a year's worth of sales data. Hundreds of thousands of electronics store purchases are broken out by month, product kind, price, purchasing address, and other factors.
 
-All the required files are present in Sales Data folder
+All the required files are present in Sales Data folder.
 
 We begin by clearing up our information. The tasks to be completed during this segment are:
 
